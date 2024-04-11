@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Lucas Alves!!
 
 <a href="https://github.com/LucasAlvesFer/github-readme-stats">
-  <img height=200 width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=LucasAlvesFer&show_icons=true&theme=tokyonight" />
+  <img height=200 width="420" align="center" src="https://github-readme-stats.vercel.app/api?username=LucasAlvesFer&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200  width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasAlvesFer&&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
